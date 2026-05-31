@@ -50,13 +50,3 @@ With the virtual environment activated, run the following command to install the
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-### 4. Running the Day 2 Script
-
-To execute the day 2 script:
-
-```bash
-python day2/colab.py
-```
